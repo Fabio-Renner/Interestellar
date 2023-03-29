@@ -1,0 +1,77 @@
+* {
+    margin: 0 auto;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background: url(https://cdnb.artstation.com/p/assets/images/images/037/138/405/large/swagat-nayak-final.jpg?1619596572) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+
+}
+
+.titulo{
+    text-align: center;
+    color: rgb(192, 192, 192);
+    margin-top: 25px;
+    margin-bottom: 25px;
+    font-size: x-large;
+    font-weight: 500;
+
+}
+
+hr {
+    border: 0;
+    height: 1px;
+    background-color: #333;
+    margin: 10px auto;
+    width: 35%;
+}
+
+#navegar{
+    list-style: none;
+    padding: 0;
+    text-align: center;
+
+}
+
+#navegar li{
+    display: inline;
+}
+
+#navegar li a{
+    display: inline-block;
+    color: rgb(192, 192, 192);
+    text-decoration: none;
+    padding: 20px;
+    transition: background .5s;
+    font-size: x-large;
+    font-weight: 700;
+}
+
+#navegar li a:hover{
+    background-color: rgb(0, 0, 0);
+}
+
+.sinopse h2{
+    color: rgb(255, 255, 255);
+    margin: 25px;
+    
+    margin-top: 0px;
+    text-align: center;
+}
+
+.sinopse{
+    color: rgb(255, 255, 255);
+    margin: 25px;
+    font-size: x-large;
+    font-weight: 500;
+    margin-top: 100px;
+    text-align: center;
+}
+
+
+
