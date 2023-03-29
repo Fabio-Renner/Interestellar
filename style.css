@@ -59,7 +59,6 @@ hr {
 .sinopse h2{
     color: rgb(255, 255, 255);
     margin: 25px;
-    
     margin-top: 0px;
     text-align: center;
 }
@@ -73,5 +72,104 @@ hr {
     text-align: center;
 }
 
+#elenco{
+    color: rgb(255, 255, 255);
+    margin: 25px;
+    margin-top: 0px;
+    text-align: center;
+    font-size: x-large;
+}
 
+#elenco li{
+    list-style: none;
+    padding: 0;
+    text-align: center;
+}
+
+.testando{
+    margin-left: 25px;
+}
+
+.testando1{
+    width: 400px;
+    height: auto;
+}
+.testando11{
+    display: flex;
+    align-items: center;
+    margin-top: -150px;
+    margin-left: 425px;
+    margin-right: 25px;
+    color: rgb(255, 255, 255);
+    font-weight: 500;
+    text-align: center;
+}
+
+figcaption{
+    list-style: none;
+    color: rgb(255, 255, 255);
+    margin: 25px;
+    font-size: x-large;
+    margin-left: 25px;
+}
+
+.testando2{
+    width: 400px;
+    height: auto;
+}
+.testando22{
+    display: flex;
+    align-items: center;
+    margin-top: -150px;
+    margin-left: 425px;
+    margin-right: 25px;
+    color: rgb(255, 255, 255);
+    font-weight: 500;
+    text-align: center;
+}
+
+.testando3{
+    width: 400px;
+    height: auto;
+}
+.testando33{
+    display: flex;
+    align-items: center;
+    margin-top: -150px;
+    margin-left: 425px;
+    margin-right: 25px;
+    color: rgb(255, 255, 255);
+    font-weight: 500;
+    text-align: center;
+}
+
+.testando4{
+    width: 400px;
+    height: auto;
+}
+.testando44{
+    display: flex;
+    align-items: center;
+    margin-top: -150px;
+    margin-left: 425px;
+    margin-right: 25px;
+    color: rgb(255, 255, 255);
+    font-weight: 500;
+    text-align: center;
+}
+
+.testando5{
+    width: 400px;
+    height: auto;
+}
+.testando55{
+    display: flex;
+    align-items: center;
+    margin-top: -150px;
+    margin-left: 425px;
+    margin-right: 25px;
+    color: rgb(255, 255, 255);
+    font-weight: 500;
+    text-align: center;
+}
 
