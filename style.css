@@ -5,7 +5,7 @@
 }
 
 body{
-    background: url(https://cdnb.artstation.com/p/assets/images/images/037/138/405/large/swagat-nayak-final.jpg?1619596572) no-repeat center center fixed; 
+    background: url(https://wallpaper-mania.com/wp-content/uploads/2018/09/High_resolution_wallpaper_background_ID_77701122170.jpg) no-repeat center center fixed; 
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -15,7 +15,7 @@ body{
 
 .titulo{
     text-align: center;
-    color: rgb(192, 192, 192);
+    color: rgb(255, 255, 255);
     margin-top: 25px;
     margin-bottom: 25px;
     font-size: x-large;
@@ -44,7 +44,7 @@ hr {
 
 #navegar li a{
     display: inline-block;
-    color: rgb(192, 192, 192);
+    color: rgb(255, 255, 255);
     text-decoration: none;
     padding: 20px;
     transition: background .5s;
@@ -53,7 +53,7 @@ hr {
 }
 
 #navegar li a:hover{
-    background-color: rgb(0, 0, 0);
+    background-color: rgb(253, 237, 212);
 }
 
 .sinopse h2{
@@ -120,7 +120,7 @@ figcaption{
 .testando22{
     display: flex;
     align-items: center;
-    margin-top: -150px;
+    margin-top: -180px;
     margin-left: 425px;
     margin-right: 25px;
     color: rgb(255, 255, 255);
@@ -173,3 +173,54 @@ figcaption{
     text-align: center;
 }
 
+#trailer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#border {
+    border: 0;
+    height: 1px;
+    background-color: #333;
+    margin: 10px auto;
+    
+}
+
+.footer1 ul{
+    list-style: none;
+    display: flex;
+}
+
+.footer1 li a{
+    display: inline-block;
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    padding: 20px;
+    transition: background .5s;
+    font-size: x-large;
+    font-weight: 700;
+}
+
+.final{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    padding: 20px;
+    transition: background .5s;
+    font-size: x-large;
+    font-weight: 700;
+}
+.final2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    padding: 20px;
+    transition: background .5s;
+    font-size: x-large;
+    font-weight: 700;
+}
